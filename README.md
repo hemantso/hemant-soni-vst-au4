@@ -12,7 +12,7 @@ I currently work as a [Technical Assistance](https://attainu.com/) (a.k.a. Code 
 If you'd like me to come work on one of your projects, you can reach me on:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Hemant%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-soni-97427b193/)](https://www.linkedin.com/in/hemant-soni-97427b193/)
-- [![Angelist Badge](https://img.shields.io/badge/-Hemant%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://angel.co/u/hemant-soni-11)](https://angel.co/u/hemant-soni-11)
+- [Angelist](https://angel.co/u/hemant-soni-11)
 
 
 Or you can contact me through [my portfolio page](https://hemantsoni.netlify.app/) 💼!
